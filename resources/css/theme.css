@@ -1,0 +1,35 @@
+:root {
+  --primary: #0c0c0c;
+  --primary-dark: rgb(209, 0, 105, 1);
+  --primary-70: rgba(254, 1, 129, 0.7);
+  --primary-50: rgba(254, 1, 129, 0.5);
+  --primary-30: rgba(254, 1, 129, 0.3);
+  --primary-10: rgba(254, 1, 129, 0.1);
+  --logo: #430051;
+  --sidebar-icon: #db34de;
+}
+
+.bg-grad-sidebar {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#fe0181), to(#3c4655));
+  background-image: linear-gradient(0deg, #fff, #fff);
+}
+.bg-grad-sidebar .h-header {
+  background-color: #fff;
+}
+.bg-grad-sidebar .h-header p {
+  color: var(--primary);
+}
+.bg-grad-sidebar a,
+.bg-grad-sidebar .sidebar-label {
+  color: var(--primary);
+}
+
+.content .h-header {
+  background-color: transparent;
+  box-shadow: none;
+}
+.content .h-header .form-global-search {
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=theme.css.map */

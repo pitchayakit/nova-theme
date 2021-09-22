@@ -5,7 +5,7 @@
 ```bash
 composer require lexicon/nova-theme
 ```
-## Publish css file
+## Publishing Theme
 ```bash
 php artisan vendor:publish --provider="Lexicon\NovaTheme\ThemeServiceProvider"
 ```

@@ -3,7 +3,17 @@
     "description": "A Laravel Nova theme.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "lexicon",
+        "nova theme"
+    ],
+    "homepage": "https://github.com/pitchayakit/nova-theme",
+    "authors": [
+        {
+            "name": "Pitchayakit Pahamak",
+            "email": "pitchayakit.p@gmail.com",
+            "role": "software engineer"
+        }
     ],
     "license": "MIT",
     "require": {

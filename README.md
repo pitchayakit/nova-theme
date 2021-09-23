@@ -1,4 +1,4 @@
-# nova-theme
+# Nova Theme by Lexicon
 
 ## Install package using composer
 
